@@ -1,0 +1,10 @@
+# Questo repo e' solo il contenitore dei sottoprogetti.
+# Ognuno e' un repository git a se' stante con il proprio remote: qui non va
+# committato, altrimenti diventerebbe un gitlink (submodule rotto) senza URL.
+_worktrees/
+knoxa/
+knoxa-bidq/
+knoxa-ui/
+knoxa-ui-admin/
+knoxa-llm-gateway/
+zero1code/
