@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "knoxa-ui-admin",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "knoxa-ui-admin", "run", "dev", "--", "-p", "3241"],
+      "port": 3241
+    }
+  ]
+}

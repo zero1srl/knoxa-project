@@ -1,0 +1,36 @@
+Backup su D:\docker-backup\2026-09-17
+Volume: 1a2e5e08bc0647b74036cf677ba37fb4e4979c842d44118d837153a000ddd90d
+Volume: 3e13ff4ec637fbed52dd6796dcad24d56165699a282bfcd8120e35c0561b5c87
+Volume: 5dab1faaf3f2e1c36a0fbc1db50fa7aebc0204100db89a3251fa712c7ea7ce9d
+Volume: 07b2936099bc203ca70302ab5ed18dbcf07cae3c13f4d4b617492e889c396d14
+Volume: 10ce641e9d347f7608f1b9f58328b21370c932dcb2f150d9e23ba21cc5f0685d
+Volume: 23ed6aa61528ec56c53aef3812791f8ea105a7d707189a695e6701d9503caaeb
+Volume: 55a8631de6fff2376cfdd1fdd2f18a6833259f914f30fd8eedc2c5a0ff0aaede
+Volume: 268e639488537b1c7487f5c9c604bc2345246e4f4d5f1dc0618db17b59e8763b
+Volume: 842c4459b24eca7292cfc4e1d595ef1e6c34ac5525080478b2f39c95bb7e6e2d
+Volume: 1971fbdf740302c7585c177b8da0faaacb80cb2f80047391cc2800306764fdfb
+Volume: a60b34c126be3700b9be2cd84a4de53976d1d34fb5012958b59853b737f083cf
+Volume: compose_windmill_worker_cache
+Volume: compose_windmill_worker_logs
+Volume: knoxa-ingest_docling_data
+Volume: knoxa-ingest_rapid_doc_models
+Volume: knoxa-ui-supabase_db-config
+Volume: knoxa-ui-supabase_deno-cache
+Volume: knoxa-windmill_windmill_db_data
+Volume: knoxa-windmill_windmill_worker_cache
+Volume: knoxa-windmill_windmill_worker_logs
+Volume: knoxa_engine_api_data
+Volume: knoxa_llm_gateway_pgdata
+Volume: knoxa_meilisearch_data
+Volume: knoxa_memgraph_etc
+Volume: knoxa_memgraph_lib
+Volume: knoxa_memgraph_log
+Volume: knoxa_minio_data
+Volume: knoxa_omniroute_data
+Volume: knoxa_radar_pgdata
+Volume: knoxa_supabase_db_data
+Volume: knoxa_supabase_db_data_pg15_20260830-003020
+Volume: omniroute-redis-data
+Volume: prizz_deep-dive-desktop-extension_deep-dive-history
+Immagini...
+Fatto: D:\docker-backup\2026-09-17
